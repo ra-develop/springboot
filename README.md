@@ -1,4 +1,5 @@
-Lab: Generating a Spring Boot Project Using Spring Initializr
+# Lab: Generating a Spring Boot Project Using Spring Initializr #
+
 In this lab, you will learn about Generating a Spring Boot project using start.spring.io
 
 Click
